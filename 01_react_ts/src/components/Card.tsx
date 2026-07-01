@@ -1,4 +1,3 @@
-import React from 'react'
 import type { PropsWithChildren,ReactNode } from 'react'
 
 interface CradProps extends PropsWithChildren{
