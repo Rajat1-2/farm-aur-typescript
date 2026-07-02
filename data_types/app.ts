@@ -4,3 +4,5 @@
 // var k=s // k is pointing to s , not k is copy of s
 let arr=[1,3,"hifi",true,{name:"harrr"},{naem:23}]
 let arrq: number[]= [] //ye bs no ka array ka h othervise error dega
+
+

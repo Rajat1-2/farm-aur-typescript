@@ -14,6 +14,14 @@ export function useFetch<T>(url:string):FetchState<T>{
     });
 
     // useeffect to make fetch request
+    useEffect(() => {
+      
+    
+      return () => {
+        
+      }
+    }, [])
+    
 
     return state;
 }
